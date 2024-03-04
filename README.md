@@ -11,5 +11,8 @@ The app employs Supervised Machine Learning models to analyze the entered health
 2. Backend: Python and Flask
 3. Machine Learning Framework: Scikit Learn, Supervised Learning, and Multilayer Perceptron
 
+![Diabetes Prediction App](https://github.com/Lmicael/Diabetes-Prediction-App/assets/89865535/fbfcdfcc-02de-413f-9ebe-b1d1cd8ddc5d)
+
+
 
 Disclaimer: The Diabetes Prediction app is not a substitute for professional medical advice, diagnosis, or treatment. Always consult your doctor for personalized guidance about your health
