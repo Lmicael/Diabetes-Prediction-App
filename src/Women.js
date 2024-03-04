@@ -4,7 +4,7 @@ import Icon from 'react-native-vector-icons/MaterialIcons';
 import { useNavigation } from '@react-navigation/native';
 import axios from 'axios';
 
-const API_URL = 'http://10.1.191.0:5000/predict';
+const API_URL = '*/predict';
 
 const FormScreen = () => {
     const showMessageGlucose = () => {

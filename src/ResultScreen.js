@@ -19,7 +19,7 @@ const ResultScreen = ({ route }) => {
         const backHandler = BackHandler.addEventListener('hardwareBackPress', backAction);
 
         axios
-            .get('http://192.168.3.130:5000/calibration_curve')
+            .get('*/calibration_curve')
             .then((response) => {
                 setCurveData(response.data);
                 setLoading(false);
